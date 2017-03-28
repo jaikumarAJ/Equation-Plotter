@@ -1,0 +1,87 @@
+-------------------------------------------------------------------------------------------------------------------------------------             
+				   This is the project README file. 
+-------------------------------------------------------------------------------------------------------------------------------------
+/*
+ * Copyright (c) 2010, Oracle. All rights reserved.
+ *
+ * Redistribution and use in source and binary forms, with or without
+ * modification, are permitted provided that the following conditions are met:
+ *
+ * * Redistributions of source code must retain the above copyright notice,
+ *   this list of conditions and the following disclaimer.
+ *
+ * * Redistributions in binary form must reproduce the above copyright notice,
+ *   this list of conditions and the following disclaimer in the documentation
+ *   and/or other materials provided with the distribution.
+ *
+ * * Neither the name of Oracle nor the names of its contributors
+ *   may be used to endorse or promote products derived from this software without
+ *   specific prior written permission.
+ *
+ * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+ * AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+ * IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ * ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE
+ * LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+ * CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+ * SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+ * INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+ * CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
+ * THE POSSIBILITY OF SUCH DAMAGE.
+ */
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+PROJECT TITLE : EQUATION PLOTTER
+
+
+PURPOSE OF PROJECT : 
+
+This project is a contribution to Science and would be useful for anyone 
+who needs graphical representation of functions for futher analysis, or for
+educational and research purpose.
+This will help to form an exact and clear representation of mathematics which one 
+will be able to analyse it in a better manner.
+
+
+
+VERSION or DATE : 17th OCTOBER, 2016 
+
+
+PROJECT AUTHOR : RAHUL PAKNIKAR
+
+
+PRE-REQUISITE :
+
+1. A user should know how to handle a computer.
+ 
+2. A user should possess basic and advanced knowledge of mathematics.
+
+3. A user should have some idea how different shapes appear.
+
+4. In an all, knowing fundamental and secondary level mathematics would help 
+   the user to use this application.
+
+
+OVERVIEW :
+
+It is a JAVA Application Program intended to display various mathematical functions viz. 
+Trigonometric Functions, Polynomial Equations, Conic Curves, Exponential Curves, etc. 
+
+Trigonometric functions include hyperbolic, inverse and circular functions. 
+
+Polynomial functions include one,two and three degree polynomial equations.
+
+Exponential functions include e^x, 1/x, logx, etc.
+
+Conic Curves include parabola, circle, ellipse, etc.
+
+I have included a colossal number of functions in the application through which
+ the user can enter his/her choice.
+
+-------------------------------------------------------------------------------------------------------------------------------------

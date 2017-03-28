@@ -1,0 +1,37 @@
+-------------------------------------------------------------------------------------------------------------------------------------
+													    INSTRUCTIONS
+------------------------------------------------------------------------------------------------------------------------------------- 
+
+1. To use this application program, first run the "MAIN" Class.
+
+2. A window will appear on the screen.
+
+3. On that window, there is a "Enter Function Mode ..." Panel where the user has to select any of the 3 functions 
+    f(x), g(x), h(x).
+
+       a. f(x) will be plotted in red color.
+       b. g(x) will be plotted  in green color.
+       c. h(x) will be plotted in blue color.
+
+4. Select a function mode (min:1 and max:3).
+
+5. After selecting a particular function mode (say f(x)), then select one among the four options viz,  
+    Trigonometric Function, Polynomial Function, Conic Section, Exponential Function.
+
+6. After selecting a particular option (say Conic Section), then select a sub-function under the domain of each 
+    function mode respectively. (User can select only Conic Curves under the Conic Section.) 
+
+7. Then enter the constants as suggested by the Application.
+     (Note: By Default, all the constants will have value equal to 1.)
+
+8. Click the "PLOT" Button to see the graphs of the selected functions.
+    (Note: The user cannot plot the graph unless atleast one function is chosen.)
+
+9. After clicking on the "PLOT" Button, a new window will appear on which the user will see the graph of a function 
+    which he/she intended.
+
+10. Clicking on "ABOUT" will give an overview, gist of this application program.
+
+11. To exit the application, click on "QUIT" Button or click on "X" Button present at the top right corner.
+
+-------------------------------------------------------------------------------------------------------------------------------------
